@@ -1,9 +1,10 @@
 # Lasagna
 
 #### Rundown
-* I don't mess with boiling noodles. Because I'm lazy.
+* I don't mess with boiling noodles. Because I'm lazy. It could probably be tasty if you used "real" noodles but whatevs.
 * I don't use any additional salt or oil, so yay?
 * We only use Mozzarella cheese since my wife finds Ricotta gross. I think this makes this recipe special and different. Feel free to add in additional cheese of your liking.
+* Sometimes I double this recipe and bake one in a foil pan which I freeze for later.
 
 <img src="http://photos-e.ak.instagram.com/hphotos-ak-xfa1/10843985_402134046619084_701644577_n.jpg" height="400" />
 
