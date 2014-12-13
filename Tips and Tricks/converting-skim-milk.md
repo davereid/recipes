@@ -12,3 +12,5 @@ Add the following to 1 cup of skim milk to approximate 1 cup of
 2T half & half= 1% milk
 3T half & half= 2% milk
 4T half & half= whole milk
+
+http://chowhound.chow.com/topics/736753
