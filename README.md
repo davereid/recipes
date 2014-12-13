@@ -1,4 +1,2 @@
-GitBook Example
+Dave Reid's Recipes
 =======
-
-Welcome in your GitBook!
