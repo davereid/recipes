@@ -1,11 +1,12 @@
-Dave Reid's Recipes
-=======
+# Dave Reid's Recipes
 
-* Dinner
-    * [Lasagna](Lasagna.md)
+## Dinner
 
-* Tips and Tricks
-    * [Converting Skim Milk to Whole Milk](Tips and Tricks/converting-skim-milk.md)
+* [Lasagna](Lasagna.md)
+
+## Tips and Tricks
+
+* [Converting Skim Milk to Whole Milk](Tips and Tricks/converting-skim-milk.md)
 
 ## Resources
 
