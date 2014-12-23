@@ -15,3 +15,4 @@
 * http://smittenkitchen.com/recipes/
 * http://www.seriouseats.com/recipes
 * http://www.thugkitchen.com/archive
+* http://www.copykat.com/
