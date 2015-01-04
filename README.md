@@ -1,7 +1,6 @@
 # Dave Reid's Recipes
 
-## Dinner
-
+* [Cranberry Sauce](Cranberry Sauce.md)
 * [Lasagna](Lasagna.md)
 
 ## Tips and Tricks
